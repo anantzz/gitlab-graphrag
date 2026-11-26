@@ -6,7 +6,10 @@ repos handle Z?". Answers include code snippets and links to the exact lines in 
 Everything runs on your machine: an **Ollama** model (default `qwen2.5-coder:7b`), local `bge-small` embeddings,
 a NetworkX knowledge graph and BM25 search. No code, question or answer is sent to any outside service.
 
-See **IMPLEMENTATION_GUIDE.md** for the full setup, architecture and privacy verification steps.
+- **New to AI?** Start with **[docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md)**. It explains everything from scratch
+  in plain language: LLMs, RAG, search, knowledge graphs, and a step-by-step walk-through of one question.
+- **Setting it up?** See **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** for the full install, architecture and
+  privacy verification steps.
 
 ## Quick start
 
